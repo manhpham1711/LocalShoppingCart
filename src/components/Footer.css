@@ -1,0 +1,19 @@
+#footerPar #footer #footer_1 {
+    margin-top:20px ;
+    border:  1px solid red;
+}
+.container .row #htkh li {
+    list-style-type: none;
+}
+
+.container .row #cs li {
+    list-style-type: none;
+}
+
+.container .row #tk li {
+    list-style-type: none;
+}
+.container .row{
+    background-image: url("https://i2.wp.com/dongphuckn.com/wp-content/uploads/2019/08/background-dep-vector-628x400.jpg");
+    border-image-width: 100%;
+}

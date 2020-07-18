@@ -1,0 +1,15 @@
+
+.boundary{
+    margin-top: 1%;
+    width: 100%;
+    height: 1px;
+    background-color: lawngreen;
+}
+.container .search .form-group{
+    margin-left: 5%;
+}
+.container .search .form-group input{
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+}
